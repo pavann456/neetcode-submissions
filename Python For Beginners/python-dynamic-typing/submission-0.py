@@ -1,0 +1,10 @@
+variable=88
+print(type(variable))
+variable=9.8
+print(type(variable))
+variable=False
+print(type(variable))
+variable="pavan"
+print(type(variable))
+variable=[1,2,3,4]
+print(type(variable))
